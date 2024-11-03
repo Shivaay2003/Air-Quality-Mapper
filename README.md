@@ -4,8 +4,7 @@
 
 ## 📝 **Overview**
 
-This project explores the environmental changes during the COVID-19 pandemic, focusing on how lockdowns and reduced human activity affected **air quality** over time. By comparing **infection rates** and **air quality data**, we can see how restrictions may have positively impacted environmental conditions.
-
+This project explores the environmental changes during the COVID-19 pandemic, focusing on how lockdowns and reduced human activities influenced air quality. By analyzing infection rates alongside air quality data, we can assess how restrictions may have led to positive environmental effects.
 ---
 
 ## 📊 **Data Sources**
